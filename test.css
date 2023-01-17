@@ -1,0 +1,19 @@
+h1 {
+text-align: center;
+color: brown;
+font-style: oblique;
+}
+
+body {
+    text-align: center;
+    color: firebrick;
+    font-style: italic;
+}
+
+.cont {
+    max-width: 60em;
+    min-width: 45em;
+    margin: 0 auto;
+    padding: 0 0em;
+    text-align: left;
+}
